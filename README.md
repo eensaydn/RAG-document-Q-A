@@ -30,7 +30,6 @@ This project is a **Retrieval-Augmented Generation (RAG)** powered question-answ
 
 ## 📂 Folder Structure
 
-```markdown
 📁 your-project-root/
 ├── 📁 research_papers/         # Folder containing your input PDF documents
 │   └── *.pdf                   # Research papers to be processed (max 50 for this app)
@@ -40,6 +39,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** powered question-answ
 └── 📄 README.md                # Project documentation (this file)
 
 ---
+
 
 ## ⚙️ How to Run
 
