@@ -38,7 +38,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** powered question-answ
 ├── 📄 .env                     # Environment variables file (OPENAI_API_KEY, GROQ_API_KEY)
 ├── 📄 requirements.txt         # Python dependencies required to run the app
 └── 📄 README.md                # Project documentation (this file)
-
+```
 ---
 
 
