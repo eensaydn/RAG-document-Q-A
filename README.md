@@ -29,11 +29,15 @@ This project is a **Retrieval-Augmented Generation (RAG)** powered question-answ
 ---
 
 ## 📂 Folder Structure
-├── research_papers/ # Your PDF documents
-├── app.py # Streamlit app
-├── .env # API keys (OPENAI_API_KEY, GROQ_API_KEY)
-├── requirements.txt # Python dependencies
 
+```markdown
+📁 your-project-root/
+├── 📁 research_papers/         # Folder containing your input PDF documents
+│   └── *.pdf                   # Research papers to be processed (max 50 for this app)
+├── 📄 app.py                   # Main Streamlit application (RAG-based Q&A interface)
+├── 📄 .env                     # Environment variables file (OPENAI_API_KEY, GROQ_API_KEY)
+├── 📄 requirements.txt         # Python dependencies required to run the app
+└── 📄 README.md                # Project documentation (this file)
 
 ---
 
